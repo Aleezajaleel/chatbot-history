@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain
+langchain-groq
+openai
+gtts
+SpeechRecognition
+PyPDF2
+python-docx
+pandas
+langchain_community
